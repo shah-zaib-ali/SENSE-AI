@@ -1,5 +1,3 @@
----
-
 <div align="center">
 
 # 🧠 SENSE-AI
@@ -17,8 +15,6 @@ if a film is a **Peak** masterpiece or a **Flop** — in real-time.
 
 </div>
 
----
-
 ## 🔥 Key Features
 
 #### 🔁 Sequence-Aware Deep Learning
@@ -30,8 +26,6 @@ if a film is a **Peak** masterpiece or a **Flop** — in real-time.
 - 🧬 Uses **LSTM (Long Short-Term Memory)** layers to understand context and word order
 - 🎭 Accurately identifies **sarcasm** and nuanced complex opinions
 
----
-
 #### 🧮 Vectorized Word Mapping
 
 ![Embeddings](https://img.shields.io/badge/Word-Embeddings-150458?style=for-the-badge&logo=numpy&logoColor=white)
@@ -39,8 +33,6 @@ if a film is a **Peak** masterpiece or a **Flop** — in real-time.
 
 - 📐 Leverages **high-dimensional Word Embeddings** to mathematically group similar concepts
 - 🔗 Example: `breathtaking` and `stunning` are understood as semantically equivalent
-
----
 
 #### 🎨 Dynamic UI Experience
 
@@ -52,8 +44,6 @@ if a film is a **Peak** masterpiece or a **Flop** — in real-time.
 - ⚡ Real-time **Aura Checks** with live sentiment feedback
 - 🔄 Auto-rotating **live buzz feed** powered by IMDb samples
 
----
-
 #### 🛡️ Dual-Engine Backend
 
 ![Neural Net](https://img.shields.io/badge/Engine%201-Neural%20Network-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -62,8 +52,6 @@ if a film is a **Peak** masterpiece or a **Flop** — in real-time.
 
 - 🔀 Includes a **robust fallback system (VADER Lexicon)** for guaranteed uptime
 - 🧠 Neural network handles primary inference — VADER kicks in when offline
-
----
 
 ## 🛠️ Tech Stack
 
@@ -85,8 +73,6 @@ if a film is a **Peak** masterpiece or a **Flop** — in real-time.
 ### 📊 Data
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
 
 ## 🚀 Quick Start
 
@@ -114,8 +100,6 @@ streamlit run app.py
 
 </div>
 
----
-
 ## 🎓 Student Innovation
 
 ![IMDb](https://img.shields.io/badge/Data-IMDb%20Dataset-F7DF1E?style=for-the-badge&logo=imdb&logoColor=black)
@@ -132,5 +116,3 @@ specifically tuned for cinematic language.
 ![Flop](https://img.shields.io/badge/Verdict-FLOP-red?style=for-the-badge)
 
 </div>
-
----
