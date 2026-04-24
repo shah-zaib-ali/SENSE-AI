@@ -132,8 +132,8 @@ specifically tuned for cinematic language.
 
 <div align="center">
 
-![Peak](https://img.shields.io/badge/🎬%20Verdict-PEAK%20%E2%9C%85-brightgreen?style=for-the-badge)
-![Flop](https://img.shields.io/badge/🎬%20Verdict-FLOP%20%E2%9D%8C-red?style=for-the-badge)
+![Peak](https://img.shields.io/badge/Verdict-PEAK-brightgreen?style=for-the-badge)
+![Flop](https://img.shields.io/badge/Verdict-FLOP-red?style=for-the-badge)
 
 </div>
 
