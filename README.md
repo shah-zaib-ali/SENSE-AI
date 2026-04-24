@@ -76,6 +76,8 @@ if a film is a **Peak** masterpiece or a **Flop** — in real-time.
 
 ## 🚀 Quick Start
 
+**0. DOWNLOAD THESE FILES AND KEEP THEM IN PROJECT FOLDER: https://www.kaggle.com/datasets/shahzaibalyy/sense-ai-files
+
 **1. Clone the repository**
 ```bash
 git clone https://github.com/yourusername/sense-ai.git
